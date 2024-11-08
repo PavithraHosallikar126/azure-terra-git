@@ -8,3 +8,5 @@ terraform.tfstate
 terraform.tfstate.backup
 terraform_1.9.8_windows_amd64.zip
 terraform_1.9.8_windows_amd64/
+id_rsa
+id_rsa.pub
